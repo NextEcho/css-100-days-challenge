@@ -1,0 +1,19 @@
+/* 常规 */
+@font-face {
+	font-family: "ComicShannsMono Nerd Font";
+	src: url("https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/ComicShannsMono/ComicShannsMonoNerdFont-Regular.otf")
+		format("otf");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+/* 粗体 */
+@font-face {
+	font-family: "ComicShannsMono Nerd Font";
+	src: url("https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/ComicShannsMono/ComicShannsMonoNerdFont-Bold.otf")
+		format("otf");
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
