@@ -1,0 +1,31 @@
+.page {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+
+	.container {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		width: 400px;
+		height: 400px;
+		border: 3px solid rgba(255, 255, 255, 0.2);
+		border-radius: 8px;
+		padding: 10px 20px;
+		background-image: linear-gradient(to right, indigo, skyblue);
+	}
+}
+
+.fontLarge {
+	font-family: "Courier New", Courier, monospace;
+	font-weight: bold;
+	font-size: 5rem;
+}
+
+.fontSmall {
+	font-family: "Courier New", Courier, monospace;
+	font-weight: bold;
+	font-size: 2rem;
+}

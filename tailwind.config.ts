@@ -58,6 +58,7 @@ const config: Config = {
 			},
 			fontFamily: {
 				custom: ["ComicShannsMono Nerd Font", "LXGW WenKai", "Helvetica", "sans-serif"],
+				courier: ["Courier New", "monospace"],
 			},
 		},
 	},

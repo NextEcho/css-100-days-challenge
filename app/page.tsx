@@ -41,7 +41,7 @@ export default function Home() {
 							return (
 								<a
 									key={c.day}
-									href={c.link}
+									href={`/challenges/day${c.day}`}
 									className="block relative rounded-lg shadow-lg hover:shadow-2xl transition-shadow duration-200 overflow-hidden"
 								>
 									<Image
